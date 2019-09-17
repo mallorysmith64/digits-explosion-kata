@@ -1,0 +1,11 @@
+/Users/marsother/Desktop/SDG/digits-explosion-kata/bin/Debug/netcoreapp2.2/digits-explosion-kata.deps.json
+/Users/marsother/Desktop/SDG/digits-explosion-kata/bin/Debug/netcoreapp2.2/digits-explosion-kata.runtimeconfig.json
+/Users/marsother/Desktop/SDG/digits-explosion-kata/bin/Debug/netcoreapp2.2/digits-explosion-kata.runtimeconfig.dev.json
+/Users/marsother/Desktop/SDG/digits-explosion-kata/bin/Debug/netcoreapp2.2/digits-explosion-kata.dll
+/Users/marsother/Desktop/SDG/digits-explosion-kata/bin/Debug/netcoreapp2.2/digits-explosion-kata.pdb
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.csprojAssemblyReference.cache
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.csproj.CoreCompileInputs.cache
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.AssemblyInfoInputs.cache
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.AssemblyInfo.cs
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.dll
+/Users/marsother/Desktop/SDG/digits-explosion-kata/obj/Debug/netcoreapp2.2/digits-explosion-kata.pdb
